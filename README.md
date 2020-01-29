@@ -3,7 +3,7 @@ Program I worked on at UBC Rocket for reading sensor input from a Labjack. (won'
 
 Note: Rocket.py is the script I wrote, others are from Labjack website
 
-## Features:
+## Features
 - Lots of settings for which analog pins to read from, remapping input voltage to actual value, channel names/units for output formatting,  etc.
 
 - Read from each pin at custom frequency
